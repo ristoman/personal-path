@@ -8,6 +8,7 @@ Resources and to-dos for personal growth.
 - [Data Visualization](http://datavizproject.com/)
 
 ## Process
+### General Concepts
 - [TALK] [Design Thinking](http://azulseven.com/journal_entries/design-thinking-and-agile-development-integration/)
 - [Lean UX](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/)
 - [Playbook](https://askplaybook.com/)
@@ -26,7 +27,10 @@ Resources and to-dos for personal growth.
 - [Agile Transformation](https://www.solutionsiq.com/resource/blog-post/leading-agile-change-proven-change-models-for-agile-transformation/)
 
 ## UX and Research
+- [Pocket Guide to user needs](https://medium.com/on-products/pocket-guide-to-user-needs-7171431ec240)
 
 ## Project Management
 
 ## Other
+- [Social skills for UX consultants](http://uxpamagazine.org/social_skills_ux_consulatants/)
+- [Oh shit, git!](http://ohshitgit.com/)
