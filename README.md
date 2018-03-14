@@ -6,6 +6,7 @@ Resources and to-dos for personal growth.
 - [DIYTools](http://diytoolkit.org/tools/)
 - [Describing Words](http://describingwords.io)
 - [Data Visualization](http://datavizproject.com/)
+- [Good Copy](http://www.goodemailcopy.com/)
 
 ## Process
 ### General Concepts
@@ -34,6 +35,7 @@ Resources and to-dos for personal growth.
 - [Pocket Guide to user needs](https://medium.com/on-products/pocket-guide-to-user-needs-7171431ec240)
 - [Tools, Resources, Blogs and Books](http://www.mockplus.com/blog/post/the-best-uxui-designer-tools-resources-blogs-books-collection/)
 - [Practical UX Methods](http://practicaluxmethods.com/)
+- [Articles by UIE](https://articles.uie.com/)
 
 
 ## Project Management
