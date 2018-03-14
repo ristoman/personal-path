@@ -4,7 +4,7 @@ Resources and topics for personal growth.
 ## Content and tools
 Assets, templates and content for mockups and designs.
 - [Resource Cards](https://resourcecards.com/) - Digital assets of all kinds (Pics, fonts, patterns, Sketch plugins, etc)
-- [DIYTools](http://diytoolkit.org/tools/)
+- [DIYTools](http://diytoolkit.org/tools/) - Practical tools for innovation
 - [Describing Words](http://describingwords.io) - Plug in a name, get some good adjectives for it
 - [Data Visualization](http://datavizproject.com/) - Data viz formats
 - [Good Email Copy](http://www.goodemailcopy.com/) - Email communication templates
