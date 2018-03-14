@@ -6,7 +6,7 @@ Assets, templates and content for mockups and designs.
 - [Resource Cards](https://resourcecards.com/) - Digital assets of all kinds (Pics, fonts, patterns, Sketch plugins, etc)
 - [DIYTools](http://diytoolkit.org/tools/) - Practical tools for innovation
 - [Describing Words](http://describingwords.io) - Plug in a name, get some good adjectives for it
-- [Data Visualization](http://datavizproject.com/) - Data viz formats
+- [Data Visualisation](http://datavizproject.com/) - Data viz formats
 - [Good Email Copy](http://www.goodemailcopy.com/) - Email communication templates
 - [Good MicroCopy](http://goodmicrocopy.com/) - Dialogs and confirmation messages
 
@@ -55,11 +55,11 @@ The visual part.
 - [SiteInspire](https://www.siteinspire.com/)
 - [Web Design Pub](http://webdesign.pub/)
 - [IxD Library](http://theixdlibrary.com/)
-- [Design is history](http://www.designishistory.com/)
+- [Design is history](http://www.designishistory.com/) - Design work by decade
 
 ## Project Management
 How to not lose your mind in the process.
-- [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/)
+- [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary uncomfortable moment in innovation talk.
 
 ## Other
 Complementary and non-technical skills
