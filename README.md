@@ -3,12 +3,12 @@ Resources and topics for personal growth.
 
 ## Content and tools
 Assets, templates and content for mockups and designs.
-- [Resource Cards](https://resourcecards.com/)
+- [Resource Cards](https://resourcecards.com/) - Digital assets of all kinds (Pics, fonts, patterns, Sketch plugins, etc)
 - [DIYTools](http://diytoolkit.org/tools/)
-- [Describing Words](http://describingwords.io)
-- [Data Visualization](http://datavizproject.com/)
-- [Good Copy](http://www.goodemailcopy.com/)
-- [Good MicroCopy](http://goodmicrocopy.com/)
+- [Describing Words](http://describingwords.io) - Plug in a name, get some good adjectives for it
+- [Data Visualization](http://datavizproject.com/) - Data viz formats
+- [Good Email Copy](http://www.goodemailcopy.com/) - Email communication templates
+- [Good MicroCopy](http://goodmicrocopy.com/) - Dialogs and confirmation messages
 
 ## Process
 Step-by-step breakdowns of how to go from point A to point B.
