@@ -41,6 +41,7 @@ Step-by-step breakdowns of how to go from point A to point B.
 ## UX and Research
 Craft meets science in building better products.
 - [52 Weeks of UX](http://52weeksofux.com/)
+- [Really Good UX](https://www.reallygoodux.io/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [UX Myths](http://uxmyths.com/)
 - [Pocket Guide to user needs](https://medium.com/on-products/pocket-guide-to-user-needs-7171431ec240)
@@ -53,11 +54,13 @@ Craft meets science in building better products.
 ## Design
 The visual part.
 ### Inspiration
-- [UpLabs](http://www.uplabs.com/)
+- [UpLabs](http://www.uplabs.com/) - Web, Mobile and App inspiration
 - [Codrops](http://tympanus.net/codrops/)
 - [SiteInspire](https://www.siteinspire.com/)
 - [Web Design Pub](http://webdesign.pub/)
 - [IxD Library](http://theixdlibrary.com/)
+- [The Best Designs](https://www.thebestdesigns.com/)
+- [Landing Folio](https://www.landingfolio.com/) - Landing Page inspiration
 - [Design is history](http://www.designishistory.com/) - Design work by decade
 
 ## Project Management
