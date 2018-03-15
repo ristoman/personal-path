@@ -1,10 +1,15 @@
-# Personal Path
+---
+title: "Personal Path"
+date: 2018-03-07T16:19:37+01:00
+draft: true
+---
 Resources and topics for personal growth.
 
 [TW Book Recommendations](https://sites.google.com/thoughtworks.com/skills-practices-hub/self-improvement/books-reading)
 
 ## Content and tools
 Assets, templates and content for mockups and designs.
+
 - [Resource Cards](https://resourcecards.com/) - Digital assets of all kinds (Pics, fonts, patterns, Sketch plugins, etc)
 - [DIYTools](http://diytoolkit.org/tools/) - Practical tools for innovation
 - [Describing Words](http://describingwords.io) - Plug in a name, get some good adjectives for it
@@ -14,6 +19,7 @@ Assets, templates and content for mockups and designs.
 
 ## Process
 Step-by-step breakdowns of how to go from point A to point B.
+
 ### General Concepts
 - [TALK] [Design Thinking](http://azulseven.com/journal_entries/design-thinking-and-agile-development-integration/)
 - [Lean UX](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/) - A Manifesto
@@ -40,6 +46,7 @@ Step-by-step breakdowns of how to go from point A to point B.
 
 ## UX and Research
 Craft meets science in building better products.
+
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Really Good UX](https://www.reallygoodux.io/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
@@ -53,6 +60,7 @@ Craft meets science in building better products.
 
 ## Design
 The visual part.
+
 ### Inspiration
 - [UpLabs](http://www.uplabs.com/) - Web, Mobile and App inspiration
 - [Codrops](http://tympanus.net/codrops/)
@@ -65,10 +73,12 @@ The visual part.
 
 ## Project Management
 How to not lose your mind in the process.
+
 - [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary uncomfortable moment in innovation talk.
 
 ## Other
 Complementary and non-technical skills
+
 - [Social skills for UX consultants](http://uxpamagazine.org/social_skills_ux_consulatants/)
 - [Oh shit, git!](http://ohshitgit.com/) - What to do when git screws up
 - [Playing to win](http://www.sirlin.net/ptw/) - A competitive gamer's guide
