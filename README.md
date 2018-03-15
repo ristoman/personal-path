@@ -1,6 +1,8 @@
 # Personal Path
 Resources and topics for personal growth.
 
+[TW Book Recommendations](https://sites.google.com/thoughtworks.com/skills-practices-hub/self-improvement/books-reading)
+
 ## Content and tools
 Assets, templates and content for mockups and designs.
 - [Resource Cards](https://resourcecards.com/) - Digital assets of all kinds (Pics, fonts, patterns, Sketch plugins, etc)
@@ -30,8 +32,9 @@ Step-by-step breakdowns of how to go from point A to point B.
 - [Agile Topics](https://www.mountaingoatsoftware.com/agile)
 - Tracking definition
 - Story acceptance
+- [Iteration Management](http://www.scaledagileframework.com/iteration-planning/)
 - [Vertical Slices](http://agileforall.com/vertical-slices-and-scale/)
-- Experiment / Innovation accounting
+- [Innovation accounting](https://www.ideou.com/blogs/inspiration/innovation-accounting-what-it-is-and-how-to-get-started) - IDEO
 - [Agile Transformation](https://www.solutionsiq.com/resource/blog-post/leading-agile-change-proven-change-models-for-agile-transformation/)
 - [Fun Retro](https://funretro.github.io/distributed/)
 
