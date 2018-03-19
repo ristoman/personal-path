@@ -11,6 +11,7 @@ Assets, templates and content for mockups and designs.
 - [Data Visualisation](http://datavizproject.com/) - Data viz formats
 - [Good Email Copy](http://www.goodemailcopy.com/) - Email communication templates
 - [Good MicroCopy](http://goodmicrocopy.com/) - Dialogs and confirmation messages
+- [Zurb Playground](https://zurb.com/playground) - Repository of technical experiments
 
 ## Process
 Step-by-step breakdowns of how to go from point A to point B.
@@ -68,11 +69,17 @@ The visual part.
 - [The Best Designs](https://www.thebestdesigns.com/)
 - [Landing Folio](https://www.landingfolio.com/) - Landing Page inspiration
 - [Design is history](http://www.designishistory.com/) - Design work by decade
+- [UI Movement](https://uimovement.com/) - Animation inspiration
+- [Easings](http://easings.net/) - Easing Functions
+- [Little Big Details](http://littlebigdetails.com/)
+- [UI Patterns](http://ui-patterns.com/)
+- [Mobile Patterns](http://www.mobile-patterns.com/)
+- [A list of UI inspiration pages](https://uxdesign.cc/ui-inspiration-b019453058d7)
 
 ## Project Management
 How to not lose your mind in the process.
 
-- [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary uncomfortable moment in innovation talk.
+- [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary but uncomfortable moment in innovation talk.
 
 ## Other
 Complementary and non-technical skills
@@ -80,3 +87,4 @@ Complementary and non-technical skills
 - [Social skills for UX consultants](http://uxpamagazine.org/social_skills_ux_consulatants/)
 - [Oh shit, git!](http://ohshitgit.com/) - What to do when git screws up
 - [Playing to win](http://www.sirlin.net/ptw/) - A competitive gamer's guide
+- [Neon Moiré](https://www.neonmoire.com/event) - Curated list of articles from design conferences
