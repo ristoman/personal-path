@@ -1,9 +1,4 @@
----
-title: "Personal Path"
-date: 2018-03-07T16:19:37+01:00
-draft: true
----
-Resources and topics for personal growth.
+# Resources and topics for personal growth.
 
 [TW Book Recommendations](https://sites.google.com/thoughtworks.com/skills-practices-hub/self-improvement/books-reading)
 
@@ -24,16 +19,19 @@ Step-by-step breakdowns of how to go from point A to point B.
 - [TALK] [Design Thinking](http://azulseven.com/journal_entries/design-thinking-and-agile-development-integration/)
 - [Lean UX](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/) - A Manifesto
 - [Playbook](https://askplaybook.com/) - Actionable Career Advice
+
 ### Creativity, Ideation and Innovation
 - [Essential Ideation Techniques](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
 - [Collaborative Design](https://blog.marvelapp.com/designers-developers-collaborative-design-process-innovation/)
 - [Creative Something](http://creativesomething.net/)
+
 ### Brand specific
 - [The Design Sprint - Google Ventures](http://www.gv.com/sprint/)
 - [Design Thinking - IBM](https://www.ibm.com/design/thinking/)
 - [Tools by IDEO](https://www.ideo.com/tools)
 - [Toyota Kata](http://theleanthinker.com/tag/toyota-kata/)
 - [22 Rules of UX | Thoughtworks](https://www.thoughtworks.com/insights/blog/22-rules-ux)
+
 ### Agile
 - [Agile Topics](https://www.mountaingoatsoftware.com/agile)
 - Tracking definition
