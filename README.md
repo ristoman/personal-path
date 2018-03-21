@@ -25,6 +25,8 @@ Step-by-step breakdowns of how to go from point A to point B.
 - [Essential Ideation Techniques](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
 - [Collaborative Design](https://blog.marvelapp.com/designers-developers-collaborative-design-process-innovation/)
 - [Creative Something](http://creativesomething.net/)
+- [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
+- [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 
 ### Brand specific
 - [The Design Sprint - Google Ventures](http://www.gv.com/sprint/)
@@ -81,8 +83,7 @@ The visual part.
 How to not lose your mind in the process.
 
 - [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary but uncomfortable moment in innovation talk.
-- [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
-- [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
+
 
 ## Other
 Complementary and non-technical skills
@@ -91,3 +92,4 @@ Complementary and non-technical skills
 - [Oh shit, git!](http://ohshitgit.com/) - What to do when git screws up
 - [Playing to win](http://www.sirlin.net/ptw/) - A competitive gamer's guide
 - [Neon Moiré](https://www.neonmoire.com/event) - Curated list of articles from design conferences
+- [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
