@@ -56,6 +56,7 @@ Craft meets science in building better products.
 - [Articles by UIE](https://articles.uie.com/)
 - [Work smarter, not harder](https://blog.bufferapp.com/5-ways-to-get-more-done-by-working-smarter-not-harder)
 - [Contextual Enquiry Primer](https://www.sitepoint.com/contextual-enquiry-primer/)
+- [Why Prototyping is a must](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
 
 ## Design
 The visual part.
