@@ -50,7 +50,7 @@ Craft meets science in building better products.
 - [Really Good UX](https://www.reallygoodux.io/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [UX Myths](http://uxmyths.com/)
-- [Pocket Guide to user needs](https://medium.com/on-products/pocket-guide-to-user-needs-7171431ec240)
+- [Practical guide to user needs](https://medium.com/on-products/a-practical-guide-to-user-needs-89a1e0c03f95)
 - [Tools, Resources, Blogs and Books](http://www.mockplus.com/blog/post/the-best-uxui-designer-tools-resources-blogs-books-collection/)
 - [Practical UX Methods](http://practicaluxmethods.com/)
 - [Articles by UIE](https://articles.uie.com/)
