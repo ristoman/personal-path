@@ -25,6 +25,8 @@ Step-by-step breakdowns of how to go from point A to point B.
 - [Essential Ideation Techniques](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
 - [Collaborative Design](https://blog.marvelapp.com/designers-developers-collaborative-design-process-innovation/)
 - [Creative Something](http://creativesomething.net/)
+- [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
+- [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 
 ### Brand specific
 - [The Design Sprint - Google Ventures](http://www.gv.com/sprint/)
@@ -51,12 +53,13 @@ Craft meets science in building better products.
 - [Really Good UX](https://www.reallygoodux.io/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [UX Myths](http://uxmyths.com/)
-- [Pocket Guide to user needs](https://medium.com/on-products/pocket-guide-to-user-needs-7171431ec240)
+- [Practical guide to user needs](https://medium.com/on-products/a-practical-guide-to-user-needs-89a1e0c03f95)
 - [Tools, Resources, Blogs and Books](http://www.mockplus.com/blog/post/the-best-uxui-designer-tools-resources-blogs-books-collection/)
 - [Practical UX Methods](http://practicaluxmethods.com/)
 - [Articles by UIE](https://articles.uie.com/)
 - [Work smarter, not harder](https://blog.bufferapp.com/5-ways-to-get-more-done-by-working-smarter-not-harder)
 - [Contextual Enquiry Primer](https://www.sitepoint.com/contextual-enquiry-primer/)
+- [Why Prototyping is a must](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
 
 ## Design
 The visual part.
@@ -82,9 +85,13 @@ The visual part.
 How to not lose your mind in the process.
 
 - [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary but uncomfortable moment in innovation talk.
+<<<<<<< HEAD
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 - [Keeping Agile Design on Track](https://medium.com/northern-dynamics/keeping-agile-design-on-track-a1db0dc0ed87)
+=======
+
+>>>>>>> 5e1ef8a7d5963e711d3aa33669e3db2c56e957d2
 
 ## Other
 Complementary and non-technical skills
@@ -93,3 +100,4 @@ Complementary and non-technical skills
 - [Oh shit, git!](http://ohshitgit.com/) - What to do when git screws up
 - [Playing to win](http://www.sirlin.net/ptw/) - A competitive gamer's guide
 - [Neon Moiré](https://www.neonmoire.com/event) - Curated list of articles from design conferences
+- [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
