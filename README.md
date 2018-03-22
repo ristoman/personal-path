@@ -32,6 +32,7 @@ Step-by-step breakdowns of how to go from point A to point B.
 - [Tools by IDEO](https://www.ideo.com/tools)
 - [Toyota Kata](http://theleanthinker.com/tag/toyota-kata/)
 - [22 Rules of UX | Thoughtworks](https://www.thoughtworks.com/insights/blog/22-rules-ux)
+- [Design Genome Project | InVision](https://www.invisionapp.com/enterprise/design-genome)
 
 ### Agile
 - [Agile Topics](https://www.mountaingoatsoftware.com/agile)
@@ -75,6 +76,7 @@ The visual part.
 - [UI Patterns](http://ui-patterns.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 - [A list of UI inspiration pages](https://uxdesign.cc/ui-inspiration-b019453058d7)
+- [Google Design](https://design.google/)
 
 ## Project Management
 How to not lose your mind in the process.
@@ -82,6 +84,7 @@ How to not lose your mind in the process.
 - [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary but uncomfortable moment in innovation talk.
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
+- [Keeping Agile Design on Track](https://medium.com/northern-dynamics/keeping-agile-design-on-track-a1db0dc0ed87)
 
 ## Other
 Complementary and non-technical skills
