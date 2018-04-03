@@ -38,8 +38,7 @@ Step-by-step breakdowns of how to go from point A to point B.
 
 ### Agile
 - [Agile Topics](https://www.mountaingoatsoftware.com/agile)
-- Tracking definition
-- Story acceptance
+- [How to split a user story](http://agileforall.com/resources/how-to-split-a-user-story/)
 - [Iteration Management](http://www.scaledagileframework.com/iteration-planning/)
 - [Vertical Slices](http://agileforall.com/vertical-slices-and-scale/)
 - [Innovation accounting](https://www.ideou.com/blogs/inspiration/innovation-accounting-what-it-is-and-how-to-get-started) - IDEO
@@ -85,13 +84,9 @@ The visual part.
 How to not lose your mind in the process.
 
 - [The Groan Zone](http://www.innovationmanagement.se/2013/01/29/ever-heard-of-the-groan-zone/) - A necessary but uncomfortable moment in innovation talk.
-<<<<<<< HEAD
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 - [Keeping Agile Design on Track](https://medium.com/northern-dynamics/keeping-agile-design-on-track-a1db0dc0ed87)
-=======
-
->>>>>>> 5e1ef8a7d5963e711d3aa33669e3db2c56e957d2
 
 ## Other
 Complementary and non-technical skills
