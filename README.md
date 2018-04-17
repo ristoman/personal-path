@@ -12,6 +12,7 @@ Assets, templates and content for mockups and designs.
 - [Good Email Copy](http://www.goodemailcopy.com/) - Email communication templates
 - [Good MicroCopy](http://goodmicrocopy.com/) - Dialogs and confirmation messages
 - [Zurb Playground](https://zurb.com/playground) - Repository of technical experiments
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer
 
 ## Process
 Step-by-step breakdowns of how to go from point A to point B.
@@ -59,6 +60,8 @@ Craft meets science in building better products.
 - [Work smarter, not harder](https://blog.bufferapp.com/5-ways-to-get-more-done-by-working-smarter-not-harder)
 - [Contextual Enquiry Primer](https://www.sitepoint.com/contextual-enquiry-primer/)
 - [Why Prototyping is a must](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
+- [NPS is a misleading metric](https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430)
+- [Multivariate Testing](https://www.nngroup.com/articles/multivariate-testing/)
 
 ## Design
 The visual part.
@@ -79,6 +82,7 @@ The visual part.
 - [Mobile Patterns](http://www.mobile-patterns.com/)
 - [A list of UI inspiration pages](https://uxdesign.cc/ui-inspiration-b019453058d7)
 - [Google Design](https://design.google/)
+- [History of Product](https://www.kapwing.com/evolution-of-products)
 
 ## Project Management
 How to not lose your mind in the process.
@@ -87,6 +91,7 @@ How to not lose your mind in the process.
 - [Innovation Management](https://en.wikipedia.org/wiki/Innovation_management)
 - [Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
 - [Keeping Agile Design on Track](https://medium.com/northern-dynamics/keeping-agile-design-on-track-a1db0dc0ed87)
+- [Anatomy of a Design System](https://blog.producthive.org/anatomy-of-a-design-system-7a6b0677bf5)
 
 ## Other
 Complementary and non-technical skills
@@ -96,3 +101,4 @@ Complementary and non-technical skills
 - [Playing to win](http://www.sirlin.net/ptw/) - A competitive gamer's guide
 - [Neon Moiré](https://www.neonmoire.com/event) - Curated list of articles from design conferences
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+- [7 ways to work smarter, backed by science](https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6)
