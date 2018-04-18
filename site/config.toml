@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
+baseURL = "//example.org"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Product Resources"
+theme = "hugo-phlat-theme"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+    keywords = ["default", "keywords", "if", "no", "front", "matter"]
+    description = "A description that will appear as a default if front matter does not exist"
